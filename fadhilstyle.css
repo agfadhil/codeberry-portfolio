@@ -41,7 +41,7 @@ img {
   filter: grayscale(50%);
 }
 img:hover{
-  transform: scale(1.1);
+  transform: scale(1.2);
   filter: grayscale(20%);
 }
 .profile-image {
@@ -77,4 +77,5 @@ li {
 }
 .social-logo {
   filter: grayscale(.9);
+  list-style-type: none;
 }
